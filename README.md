@@ -6,29 +6,30 @@
 ##  Configurações
 >###  instação do python
 >É possível instalar o python pelo site python.org
->   versão utilizada no projeto, python 3.8.2
+>versão utilizada no projeto, python 3.8.2
 >
->   https://www.python.org/downloads/
+>        https://www.python.org/downloads/
 >
 
 >###  download do google chrome driver
 >É necessário que seja compatível com a versão do google chrome instalada
 >   versão utilizada no projeto, chromedriver-81.0.4044.69
 >
->   https://chromedriver.chromium.org/downloads
+>        https://chromedriver.chromium.org/downloads
 >
 
 >###  Criar virtual env
 >Não é necessário, mas como boas praticas, criar o ambiente virtual e ativalo para baixar pacotes
 >
 >windows
->     pip install virtualenv
->     source .env/Scripts/activate
+>        pip install virtualenv
+>        
+>        source .env/Scripts/activate
 >
 
 >###  instalar pacote do selenium
 >   
->    pipi install selenium
+>        pipi install selenium
 >
 
 
