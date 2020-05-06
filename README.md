@@ -22,8 +22,9 @@
 >Não é necessário, mas como boas praticas, criar o ambiente virtual e ativalo para baixar pacotes
 >
 >windows
+>
 >        pip install virtualenv
->        
+>           
 >        source .env/Scripts/activate
 >
 
